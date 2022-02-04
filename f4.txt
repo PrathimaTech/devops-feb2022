@@ -1,3 +1,4 @@
 this is for 3 way merge commit in master branch
 Hi how are you?
 this is for 3 way merge commit in dev_1.2.6 branch
+this line is for rebase commit in master branch
