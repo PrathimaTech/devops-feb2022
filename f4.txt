@@ -1,0 +1,2 @@
+Hi how are you?
+this is for 3 way merge commit in dev_1.2.6 branch
