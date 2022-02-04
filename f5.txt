@@ -1,1 +1,2 @@
-this is for git merge demo in master bracnh
+this is for git merge demo in master branch
+this is for git merge demo in merge_demo branch
